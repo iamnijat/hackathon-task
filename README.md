@@ -10,7 +10,7 @@
 
 ![shot](https://user-images.githubusercontent.com/42466886/143767727-f2bf8613-dd43-4fdc-b0b3-c5169846a9bf.png)
 
--------
+
 
 ## Configuration for this application
 
