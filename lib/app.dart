@@ -52,7 +52,7 @@ class _CounterAppState extends State<CounterApp> with WidgetsBindingObserver {
         return OrientationBuilder(
           builder: (context, orientation) {
             return Sizer(builder: (context, constraints, orientation) {
-              return GetMaterialApp(
+              return const GetMaterialApp(
                 builder: DevicePreview.appBuilder,
                 title: "Demo",
                 debugShowCheckedModeBanner: false,
