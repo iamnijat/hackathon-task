@@ -1,16 +1,19 @@
-# hackathon_app
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/iamnijat/hackathon-task/Flutter%20CI/master)
+![GitHub forks](https://img.shields.io/github/forks/iamnijat/hackathon-task)
+![GitHub stars](https://img.shields.io/github/stars/iamnijat/hackathon-task)
+![GitHub watchers](https://img.shields.io/github/watchers/iamnijat/hackathon-task)
+![GitHub contributors](https://img.shields.io/github/contributors/iamnijat/hackathon-task)
+![GitHub last commit](https://img.shields.io/github/last-commit/iamnijat/hackathon-task)
+![GitHub top language](https://img.shields.io/github/languages/top/iamnijat/hackathon-task)
 
-A new Flutter project.
+# Flutter Hackathon App
 
-## Getting Started
+![shot](https://user-images.githubusercontent.com/42466886/143767727-f2bf8613-dd43-4fdc-b0b3-c5169846a9bf.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Configuration for this application
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Fortunately, there is no configuration for this project apart from the flutter development setup on your computer.
+
+You've done entire steps correctly and I make sure that this project will have paramount effect on your progress learning `Flutter`
